@@ -1,6 +1,6 @@
 # TL Split Keyboard 18mm
 
-![TL Split Keyboard 18mm](https://imgur.com/a/pK1XghA.jpg)
+![TL Split Keyboard 18mm](https://i.imgur.com/oHih2uC.jpg)
 
 A short description of the keyboard/project
 
