@@ -1,12 +1,12 @@
-# tlsplit18
+# TL Split Keyboard 18mm
 
-![tlsplit18](imgur.com image replace me!)
+![TL Split Keyboard 18mm](https://imgur.com/a/pK1XghA.jpg)
 
 A short description of the keyboard/project
 
-* Keyboard Maintainer: [satromi](https://github.com/yourusername)
+* Keyboard Maintainer: [satromi](https://github.com/satromi)
 * Hardware Supported: The PCBs, controllers supported
-* Hardware Availability: Links to where you can find this hardware
+* Hardware Availability: https://github.com/satromi/
 
 Make example for this keyboard (after setting up your build environment):
 
