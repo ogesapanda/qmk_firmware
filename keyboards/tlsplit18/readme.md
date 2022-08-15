@@ -1,6 +1,6 @@
-# tlsplit18
+# TL Split Keyboard 18mm
 
-![tlsplit18](imgur.com image replace me!)
+![TL Split Keyboard 18mm](https://i.imgur.com/oHih2uC.jpg)
 
 TL Split Keyboard 18mm Rev1 is a 18mm pitch TRON-like Keyboard.
 
