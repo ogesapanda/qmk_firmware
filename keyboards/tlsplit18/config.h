@@ -24,7 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID 0x8774
 #define DEVICE_VER 0x0001
 #define MANUFACTURER satromi
-#define PRODUCT tlsplit18
+#define PRODUCT TL Split Keyboard Keyboard 18mm Rev1
 #define DESCRIPTION A splite keyboard for TRON fan
 
 /* key matrix size */
